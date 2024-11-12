@@ -1,0 +1,15 @@
+{"time":"2024-11-10T22:24:11.2286164-03:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-10T22:24:11.2286164-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\burcg\\Documents\\Pessoal\\Doutorado\\PHBreast-main\\PHBreast-copy\\wandb\\offline-run-20241110_222411-xuel0ky1\\logs\\debug-core.log"}
+{"time":"2024-11-10T22:24:11.3487296-03:00","level":"INFO","msg":"created new stream","id":"xuel0ky1"}
+{"time":"2024-11-10T22:24:11.3487296-03:00","level":"INFO","msg":"stream: started","id":"xuel0ky1"}
+{"time":"2024-11-10T22:24:11.3487296-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xuel0ky1"}}
+{"time":"2024-11-10T22:24:11.3487296-03:00","level":"INFO","msg":"sender: started","stream_id":"xuel0ky1"}
+{"time":"2024-11-10T22:24:11.3487296-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"xuel0ky1"}}
+{"time":"2024-11-10T22:24:11.3585307-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-10T22:37:49.8902497-03:00","level":"INFO","msg":"stream: closing","id":"xuel0ky1"}
+{"time":"2024-11-10T22:37:49.896268-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-10T22:37:49.9165261-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-10T22:37:49.9242711-03:00","level":"INFO","msg":"sender: closed","stream_id":"xuel0ky1"}
+{"time":"2024-11-10T22:37:49.9237641-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xuel0ky1"}}
+{"time":"2024-11-10T22:37:49.9229745-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"xuel0ky1"}}
+{"time":"2024-11-10T22:37:49.932262-03:00","level":"INFO","msg":"stream: closed","id":"xuel0ky1"}

@@ -1,0 +1,15 @@
+{"time":"2024-11-10T22:22:01.2697801-03:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-10T22:22:01.2703015-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\burcg\\Documents\\Pessoal\\Doutorado\\PHBreast-main\\PHBreast-copy\\wandb\\offline-run-20241110_222201-5yfpt6k6\\logs\\debug-core.log"}
+{"time":"2024-11-10T22:22:01.6804318-03:00","level":"INFO","msg":"created new stream","id":"5yfpt6k6"}
+{"time":"2024-11-10T22:22:01.6804318-03:00","level":"INFO","msg":"stream: started","id":"5yfpt6k6"}
+{"time":"2024-11-10T22:22:01.6804318-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"5yfpt6k6"}}
+{"time":"2024-11-10T22:22:01.680936-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5yfpt6k6"}}
+{"time":"2024-11-10T22:22:01.680936-03:00","level":"INFO","msg":"sender: started","stream_id":"5yfpt6k6"}
+{"time":"2024-11-10T22:22:01.6887794-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-10T22:22:01.8039943-03:00","level":"INFO","msg":"stream: closing","id":"5yfpt6k6"}
+{"time":"2024-11-10T22:22:01.8039943-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-10T22:22:01.8048361-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-10T22:22:01.8053414-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"5yfpt6k6"}}
+{"time":"2024-11-10T22:22:01.8053414-03:00","level":"INFO","msg":"sender: closed","stream_id":"5yfpt6k6"}
+{"time":"2024-11-10T22:22:01.8053414-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"5yfpt6k6"}}
+{"time":"2024-11-10T22:22:01.8058655-03:00","level":"INFO","msg":"stream: closed","id":"5yfpt6k6"}

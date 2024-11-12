@@ -1,0 +1,30 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "3.11.9",
+  "startedAt":  "2024-11-11T01:24:11.151510Z",
+  "args":  [
+    "--TextArgs=configs/config_phcresnet_cbis_patches.txt"
+  ],
+  "program":  "C:\\Users\\burcg\\Documents\\Pessoal\\Doutorado\\PHBreast-main\\PHBreast-copy\\main.py",
+  "codePath":  "main.py",
+  "root":  "C:\\Users\\burcg\\Documents\\Pessoal\\Doutorado\\PHBreast-main\\PHBreast-copy",
+  "host":  "DE3123021018408",
+  "username":  "burcg",
+  "executable":  "C:\\Users\\burcg\\Documents\\Pessoal\\Doutorado\\PHBreast-main\\PHBreast-copy\\.venv\\Scripts\\python.exe",
+  "codePathLocal":  "main.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "511170310144",
+      "used":  "186991005696"
+    }
+  },
+  "memory":  {
+    "total":  "34090024960"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "3.11.9",
+  "startedAt":  "2024-11-11T01:23:25.650983Z",
+  "args":  [
+    "--TextArgs=configs/config_phcresnet_cbis_patches.txt"
+  ],
+  "program":  "C:\\Users\\burcg\\Documents\\Pessoal\\Doutorado\\PHBreast-main\\PHBreast-copy\\main.py",
+  "codePath":  "main.py",
+  "root":  "C:\\Users\\burcg\\Documents\\Pessoal\\Doutorado\\PHBreast-main\\PHBreast-copy",
+  "host":  "DE3123021018408",
+  "username":  "burcg",
+  "executable":  "C:\\Users\\burcg\\Documents\\Pessoal\\Doutorado\\PHBreast-main\\PHBreast-copy\\.venv\\Scripts\\python.exe",
+  "codePathLocal":  "main.py"
+}
